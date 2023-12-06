@@ -1,5 +1,7 @@
 {
-    "en": {},
-    "mr": {},
-    "hi": {}
-}
+    "en":{
+        "welcomemessage":"You Are Welcome!",
+        "normalmessage":"Hope you enjoying learning react",
+        "greetingmessage":"Have a great day",
+        "Userscountmsg":"students are learning session."
+    },
