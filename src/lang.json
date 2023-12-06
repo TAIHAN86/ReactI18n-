@@ -5,3 +5,15 @@
         "greetingmessage":"Have a great day",
         "Userscountmsg":"students are learning session."
     },
+    "mr":{
+        "welcomemessage":"तुमचे स्वागत आहे",
+        "normalmessage":"तुम्हाला शिकण्यात आनंद वाटेल अशी आशा आहे",
+        "greetingmessage":"तुमचा दिवस चांगला जावो",
+        "Userscount":"विद्यार्थी सीखने का सत्र कर रहे हैं।"
+    },
+    "hi":{
+        "welcomemessage":"आपका स्वागत है",
+        "normalmessage":"आशा है आपको प्रतिक्रिया सीखने में आनंद आएगा",
+        "greetingmessage":"आपका दिन शानदार गुजरे",
+        "Userscount":" विद्यार्थी शिकत आहेत."
+    }
