@@ -1,7 +1,6 @@
 import React from 'react';
 import './Home.css';
-import I18n from ''
-';
+import I18n from './src/I18n.js';
 function Home(){
 
     const users=15;
