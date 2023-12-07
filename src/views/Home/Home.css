@@ -1,0 +1,55 @@
+
+
+.language-select {
+    
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    text-align: center;
+    color: darkorchid;
+    text-align: center;
+  }
+ 
+
+.marathi-option {
+   
+    color: blue;
+    text-align: center;
+  }
+  
+  .hindi-option {
+    
+    color: green;
+  }
+  
+  .english-option {
+    
+    color: red;
+  }
+
+ 
+
+.main-heading {
+    
+    color: #20d7f3;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .normal-text {
+    
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+  }
+  
+  .sub-heading {
+
+    color: #f70d0d;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  
