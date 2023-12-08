@@ -2,7 +2,7 @@
     "en":{
         "welcomemessage":" Welcome!",
         "normalmessage":"Hope you enjoying learning react",
-        "greetingmessage":"Have a great day",
+        "greetingmessage":"React is a popular JavaScript library used for building user interfaces. It was developed by Facebook and is maintained by a community of developers. .",
         "Userscountmsg":"coding."
     },
     "mr":{

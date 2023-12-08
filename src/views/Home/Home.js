@@ -13,22 +13,29 @@ function Home() {
             <h3 className="sub-heading">{I18n("greetingmessage")}</h3>
 
 
-            <select
-                className="language-select"
-                defaultValue={localStorage.getItem("lang")}
-                onChange={(e) => {
-                    localStorage.setItem("lang", e.target.value);
-                    window.location.reload();
-                }}
-            >
-                <option value="mr" className="marathi-option">Marathi</option>
-                <option value="hi" className="hindi-option">Hindi</option>
-                <option value="en" className="english-option">English</option>
-            </select>
+            <div className="language-container">
+        <select
+          className="language-select"
+          defaultValue={localStorage.getItem("lang")}
+          onChange={(e) => {
+            localStorage.setItem("lang", e.target.value);
+            window.location.reload();
+          }}
+        >
+           
+          <option value="mr" className="marathi-option">Marathi</option>
+          <option value="hi" className="hindi-option">Hindi</option>
+          <option value="en" className="english-option">English</option>
+          
+        </select>
+      </div>
 
+
+      
             <p>{users} {I18n("Userscount")}</p>
         </>
     );
 }
+
 
 export default Home;
